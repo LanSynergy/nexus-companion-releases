@@ -74,13 +74,6 @@ Nexus Companion is distributed for x86_64 Linux systems (Ubuntu, Debian, Fedora,
    ./nexus-desktop-linux-x86_64
    ```
 
----
-
-## 🔄 Automatic Updates
-
-The desktop application includes a built-in background updater powered by Tauri. It regularly checks the manifest [`latest.json`](https://github.com/LanSynergy/nexus-companion-releases/releases/latest/download/latest.json) published in this repository to notify you of performance updates, new scientific tools, and patches.
-
----
 
 ## 🔒 Security & Confinement
 
